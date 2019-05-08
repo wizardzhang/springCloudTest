@@ -1,6 +1,6 @@
-package com.wizard.springcloud.test.service;
+package com.wizard.springcloud.test.test.service;
 
-import com.wizard.springcloud.test.entity.Dept;
+import com.wizard.springcloud.test.test.entity.Dept;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.wizard.springcloud.test.entity;
+package com.wizard.springcloud.test.test.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,7 +1,7 @@
-package com.wizard.springcloud.test.controller;
+package com.wizard.springcloud.test.test.controller;
 
-import com.wizard.springcloud.test.entity.Dept;
-import com.wizard.springcloud.test.service.DeptService;
+import com.wizard.springcloud.test.test.entity.Dept;
+import com.wizard.springcloud.test.test.service.DeptService;
 import io.swagger.annotations.Api;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

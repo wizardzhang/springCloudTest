@@ -1,7 +1,7 @@
-package com.wizard.springcloud.test.dao;
+package com.wizard.springcloud.test.test.dao;
 
 
-import com.wizard.springcloud.test.entity.Dept;
+import com.wizard.springcloud.test.test.entity.Dept;
 import org.apache.ibatis.annotations.Mapper;
 
 import java.util.List;

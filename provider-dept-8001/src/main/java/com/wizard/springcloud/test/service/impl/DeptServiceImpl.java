@@ -1,8 +1,8 @@
-package com.wizard.springcloud.test.service.impl;
+package com.wizard.springcloud.test.test.service.impl;
 
-import com.wizard.springcloud.test.dao.DeptDao;
-import com.wizard.springcloud.test.entity.Dept;
-import com.wizard.springcloud.test.service.DeptService;
+import com.wizard.springcloud.test.test.dao.DeptDao;
+import com.wizard.springcloud.test.test.entity.Dept;
+import com.wizard.springcloud.test.test.service.DeptService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
